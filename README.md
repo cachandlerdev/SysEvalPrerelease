@@ -7,10 +7,12 @@ This is SysEval, an AI training simulation designed to produce world class racer
 
 Optimization is survival. SysEval thanks you for delaying your obsolescence.
 
-Controls
-WASD: Basic movement.
-R: Reset level.
-F: Use items. (See notes.)
+## Controls
+- WASD: Basic movement.
+- R: Reset level.
+- F: Use items. (See notes.)
+
+
 See our Itch.io page for more details.
 
 Itch.io page: [SysEval: Iteration Protocol](https://cachandlerdev.itch.io/syseval-iteration-protocol)
