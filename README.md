@@ -1,5 +1,5 @@
 # SysEval: Iteration Protocol (Prerelease Builds)
-This is the GitHub repo for SysEval's prerelease builds. 
+This is the GitHub repo for SysEval's prerelease builds. The latest build can be found [here](https://github.com/cachandlerdev/SysEvalPrerelease/releases).
 
 ### Welcome, SysAI_v4.27.
 
